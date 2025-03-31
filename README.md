@@ -37,4 +37,4 @@ Para executar o jogo: ./jogo
 - Melhorar a IA para tornar o jogo mais desafiador.
 - Adicionar suporte para diferentes variantes do jogo.
 # Licença
-Este projeto é distribuído sob a licença MIT. Consulte o ficheiro LICENSE para mais detalhes.
+Este projeto é distribuído sob a licença MIT. Consulte o ficheiro [Licença](LICENSE) para mais detalhes.
